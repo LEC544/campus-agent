@@ -1,0 +1,10 @@
+{
+  "crossplatform": true,
+  "modules": [
+    "entry"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ]
+}
