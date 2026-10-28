@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 仅调试包允许通过 HTTP 访问本地开发服务器。 -->
+    <application android:usesCleartextTraffic="true" />
+</manifest>

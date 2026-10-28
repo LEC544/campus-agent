@@ -1,16 +1,7 @@
 {
   "string": [
-    {
-      "name": "module_desc",
-      "value": "module description"
-    },
-    {
-      "name": "EntryAbility_desc",
-      "value": "description"
-    },
-    {
-      "name": "EntryAbility_label",
-      "value": "label"
-    }
+    { "name": "module_desc", "value": "校园学习助手客户端" },
+    { "name": "EntryAbility_desc", "value": "与云端学习助手进行多轮对话" },
+    { "name": "EntryAbility_label", "value": "校园助手" }
   ]
 }
